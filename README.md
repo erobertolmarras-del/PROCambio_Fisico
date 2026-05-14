@@ -38,7 +38,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Medios** : 
 
 * :octocat: GitHub: https://github.com/PROCambioFisico
-* 🌐 Landing Page: https://www.procambiofisico.com
+* 🌐 Landing Page: [https://www.procambiofisico.com](https://used-lilac-72169169.figma.site)
 * 📱 App Store (iOS): https://apps.apple.com/app/procambiofisico
 * 🤖 Google Play (Android): https://play.google.com/store/apps/procambiofisico
 * 📸 Instagram: https://www.instagram.com/procambiofisico
@@ -212,8 +212,8 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 ## Etapa 2: Prototipar / productos 
 
-https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estrat%C3%A9gicamente?p=f&t=K9l4CQORm6TvIsAK-0
-
+[https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estrat%C3%A9gicamente?p=f&t=K9l4CQORm6TvIsAK-0
+](https://used-lilac-72169169.figma.site)
 
 ## Etapa 3: Producción y evaluación
 
