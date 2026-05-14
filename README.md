@@ -1,4 +1,3 @@
-### ideapolis 
 ## proyecto: PRO Cambio Físico
 
 ``Plantilla para crear un proyecto de ideapolis``
@@ -29,11 +28,11 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 <img src="LogoPROCambio_Fisico.png" width="200">
 </p>
 
-**Slogan** (frase motivadora/inspiradora): "Encuentra tu mejor versión"
+**Slogan**: "Encuentra tu mejor versión"
 
 **Hashtag**  #PROCambioFisico #EncuentraTuMejorVersion
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 14/05/2026
 
