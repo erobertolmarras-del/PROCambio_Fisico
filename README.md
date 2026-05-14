@@ -193,12 +193,19 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Sobrecarga de información contradictoria
 
 🎯 **Lo que buscan (sin saberlo):**
-- Una comunidad que los motive sin juzgarlos
-- Rutinas flexibles que se adapten a su estilo de vida
-- Pequeños logros que los mantengan enganchados
-- Un entorno social alternativo basado en el movimiento
-
-``Diseño de persona con characterAI``
+**Objetivos:**
+- Mejorar su salud física y emocional
+- Recuperar motivación y energía diaria 
+- Equilibrio entre trabajo y vida personal
+  
+**Interéses:**
+- Ejercicio, hábitos saludables, salud mental
+- Organización y productividad
+  
+**Needs:**
+- Rutinas adaptables a su estilo de vida
+- Motivación diaria y sensación de progreso
+- Espacio donde se sienta comprendida
 
 ## Etapa 2: Prototipar / productos 
 
