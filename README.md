@@ -224,10 +224,25 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 Se ha desarrollado en figma nuestro manifiesto que consiste en entregar motivación a los usuarios y definir la identidad y el propósito de la iniciativa de PRO Cambio Físico. 
 Este manifiesto nos sirve como una brújula para mantener la coherencia en la comunicación visual y el tono de los mensajes hacia futuros usuarios.
+Se enfoca también en priorizar el bienestar físico/emocional frente a la presión estética que se vive a través de redes sociales con rutinas de corta duración pero que generan resultados positivos para lograr una superación personal.
 
 Manifiesto:[Manifiesto PRO Cambio Fisico](https://used-lilac-72169169.figma.site)
 
-Landing Page: (Describir el enfoque) 
+Landing Page: 
+Entrega una un status de usuarios que estan comprometidas con la iniciativa de PRO Cambio Físico con el conteo exacto de la cantidad de usuarios activos dentro de la plataforma. 
+Señala también, la cantidad de desafíos completados por los usuarios y con un conteo de estimación de éxito que se mide según la realización completa de los ejercicios y con una frecuencia elevada.
+Facilita acceso a grupos de apoyo y a un sistema de evolución social/grupal. 
+Muestra la identidad visual de acuerdo a la tipografía desde la paleta de colores seleccionado y con los mensajes escritos que reflejan confianza.
+
+En la sección "¿Por que PRO Cambio Fisico?"
+Se muestran cuatro recuadros que muestran los Desafios Comunitarios más populares entre los usuarios, Racha de Hábitos que se mide según la frecuencia en la que los usuarios participan en la plataforma, recomendación de ejercicios de Liberación de Estrés que se mide según los resultados obtenidos dentro de los usuarios y por último los Resultados Reales los cuales muestran un avance en usuarios que llevan más tiempo utilizando la app para generar sus cambios físicos adjuntando material múltimedia de sus avances y testimonios de hábitos ya creados e instaurados dentro de sus vidas cotidianas.
+
+En la última sección se ha integrado una invitación directa a todos aquellos que quieran unirse a la iniciativa con el mensaje "Únete a la revolución del Bienestar" y más abajo un botón para su redireccionamiento hacia la app.
+
+
+URL(Describir el enfoque) 
+
+
 
 ## Etapa 3: Producción y evaluación
 
@@ -305,7 +320,9 @@ No pasa nada, la app no penaliza las ausencias. Tu comunidad está ahí para mot
 
 ## Conclusiones y trabajo futuro
 
-Integrar reflexión personal.
+En el presente trabajo se ha llevado a cabo el estudio y el pensamiento de una solución amigable a una necesidad cotidiana que padecen las personas con vidas laborales muy estructuradas, el cual esto no les permite tener espacios de liberación de estrés o bien, quieren tener cambios fisicos pero no pueden comenzar. Esta inciativa nos ha llevado a pensar más allá y ponernos en el lugar de esas personas y entender desde su punto de vista la situación en la que viven y como poder generar soluciones reales a problemáticas del día a día. 
+Muchas veces las soluciones estan muy bien diseñadas pero no bien pensadas debido a que de alguna manera u otra termina segmentando a los usuarios y no integrandolos, y como resultado obtienen una baja usabilidad o bien desaparecen por que no han captado el público al cual iba dirigido en un principio del proyecto.
+
 PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenciadora en el mercado de apps de bienestar deportivo. Durante esta etapa inicial se han definido con éxito los pilares fundamentales del proyecto: identidad de marca, público objetivo, metodología de desarrollo basada en UX, modelo de comunidad activa y estrategia de evaluación. La propuesta responde a una necesidad real e identificada — el sedentarismo en profesionales con altos niveles de estrés y rutinas de vida muy estructuradas con poco tiempo para relajo — y plantea una solución innovadora basada en la validación comunitaria del progreso, lo que la diferencia claramente de otras apps de fitness existentes en el mercado.
 
 
