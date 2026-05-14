@@ -56,17 +56,17 @@ Somos una comunidad que busca un cambio físico a traves del deporte y vida salu
 Acompañar a personas sedentarias en su transformación hacia una vida activa y saludable, a través de una comunidad que entrena junta, se motiva mutuamente y valida el progreso real de cada integrante. Creemos que el cambio no se planea, se entrena — un hábito a la vez, un desafío a la vez, siempre en comunidad.
 
 10 mandamientos para la integración de hábitos deportivos de manera sana y saludable:
-1- Tu mejor versión no se planea, se entrena.
-2- Entrena. Evoluciona. Repite.
-3- El cuerpo sigue a la mente, empieza por ahí.
-4- El apoyo del grupo es nuestra mayor fuerza.
-5- Si te cuesta, lo hacemos juntos.
-6- No hay progreso pequeño, todo cuenta
-7- La constancia vence al talento.
-8- Solos llegamos más rápido, juntos llegamos más lejos.
-9- Superamos los desafíos en comunidad.
-10- Tu mejor versión empieza hoy, no mañana
 
+- 💪 Tu mejor versión no se planea, se entrena.
+- 🔄 Entrena. Evoluciona. Repite.
+- 🧠 El cuerpo sigue a la mente, empieza por ahí.
+- 🤝 El apoyo del grupo es nuestra mayor fuerza.
+- 👥 Si te cuesta, lo hacemos juntos.
+- 🎉 No hay progreso pequeño, todo cuenta.
+- ⏱️ La constancia vence al talento.
+- 🚀 Solos llegamos más rápido, juntos llegamos más lejos.
+- 🏆 Superamos los desafíos en comunidad.
+- ⭐ Tu mejor versión empieza hoy, no mañana.
 
 #### Vision
 Ser la comunidad digital de referencia en habitos deportivos para personas que están comenzando su camino activo, donde cada usuario encuentre su mejor versión respaldado por el apoyo genuino de su grupo, celebrando cada pequeño progreso como un gran logro colectivo.
