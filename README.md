@@ -39,11 +39,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 * :octocat: GitHub: https://github.com/PROCambioFisico
 * 🌐 Landing Page: https://desk-scrub-23488244.figma.site/
-* 📸 Instagram:
-<p align="center">
-  <img src="PRo Cambio Físico" width="500">
-</p>
-
+* 📸 Instagram: https://www.figma.com/make/lEOPzVEMFFIguqhaeC24Ew/post-procambio_fisico?code-node-id=0-9&p=f&t=5btMTKBnG1KDB2Cc-0&fullscreen=1
 
 
 ## ¿Quiénes somos?
@@ -207,7 +203,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Inseguridad por falta de ténicas.
 - Sobrecarga de información contradictoria
 
-**Lo que buscan (sin saberlo):**
+**Lo que buscan:**
 
 **Objetivos:**
 - Mejorar su salud física y emocional
@@ -242,9 +238,7 @@ Se muestran cuatro recuadros que muestran los Desafios Comunitarios más popular
 
 En la última sección se ha integrado una invitación directa a todos aquellos que quieran unirse a la iniciativa con el mensaje "Únete a la revolución del Bienestar" y más abajo un botón para su redireccionamiento hacia la app.
 
-
-URL(Describir el enfoque) 
-
+Landing Page URL:[PRO Cambio Fisico](https://www.figma.com/make/gFR53j4K4eg9pfYEoSTzE9/Interfaz-de-app-PRO-Cambio-F%C3%ADsico?code-node-id=0-9&p=f&t=CvK6R61HrGyRR51G-0&fullscreen=1)
 
 
 ## Etapa 3: Producción y evaluación
@@ -252,6 +246,11 @@ URL(Describir el enfoque)
 ### Estrategia de Integración al Público
 
 Publicar en RRSS distintos post para que el público se acerque y vea nuestra iniciativa. Estos post serán compartidos a través de Instagram y Tik Tok con el objetivo de que se propague el mensaje de "Generar hábitos saludables", "Una vida sana que se adecua a tus tiempos" y "Libera el estrés con deporte"
+
+Post en Instagram: 
+<p align="center">
+  <img src="" width="500">
+</p>
 
 ### Estrategia de Evaluación
 
