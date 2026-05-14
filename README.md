@@ -51,7 +51,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 Somos una comunidad que busca un cambio físico a traves del deporte y vida saludable. Buscamos crear hábitos e inculcarlos dentro del estilo de vida de las personas que aceptan este desafío y que vean resultados reflejados en cuanto a sentirse mejor y con más energía en el día a día. Este cambio no lo realizarán solos, sino que se hara el comunidad donde se encuentre el apoyo necesario para mantener una continuidad y también para superarse en grupo compartiendo experiencias, desafíos o bien acompañandose a entrenar en un mismo día y hora.
 
 ### Misión
-Acompañar a personas sedentarias en su transformación hacia una vida activa y saludable, a través de una comunidad que entrena junta, se motiva mutuamente y valida el progreso real de cada integrante. Creemos que el cambio no se planea, se entrena — un hábito a la vez, un desafío a la vez, siempre en comunidad.
+Acompañar a personas en su transformación hacia una vida activa y saludable a través de una comunidad que entrena junta, se motiva mutuamente y valida el progreso real de cada integrante. Creemos que el cambio no se planea, se entrena — un hábito a la vez, un desafío a la vez, siempre en comunidad.
 
 **10 mandamientos para la integración de hábitos deportivos de manera sana y saludable:**
 
@@ -127,7 +127,7 @@ Dormir mejor y descansar de manera profunda con paz mental.
   
 **¿Como surge el proyecto?**
 El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y el conocimiento en la creación de hábitos deportivos diarios y continuos. 
-De acuerdo con esto, se propone compartir estos conocimientos de manera que personas las cuales no posean estos hábitos puedan adquirirlos de manera estructurada y organizada comenzando por pequeños cambios que en un principio no generen un impacto muy grande dentro de la cotidianidad.
+De acuerdo con esto, se propone compartir conocimientos con el objetivo de acompañar a personas que no posean estos hábitos para que puedan adquirirlos de manera estructurada y organizada comenzando por pequeños cambios que en un principio no generen un impacto muy grande dentro de la cotidianidad.
 
 **Investigación de campo**  
 
@@ -142,7 +142,7 @@ Identificación de comunidades similares en otras RRSS:
 
 | **ANÁLISIS DAFO** | **Fortalezas (Internas)** | **Debilidades (Internas)** |
 | :--- | :--- | :--- |
-| **Factores Positivos** | **Propuesta de valor clara:** Enfoque en reducir el estrés diario y mejorar el bienestar físico/emocional mediante rutinas accesibles y flexibles. <br><br> **Identidad Visual definida:** Uso de tipografías legibles (Montserrat/Open Sans) y una paleta de colores que transmite calma y equilibrio. | **Dependencia de la comunidad:** El éxito del modelo depende de una participación activa de los usuarios para generar el soporte entre pares que propone la marca. |
+| **Factores Positivos** | **Propuesta de valor clara:** Enfoque en reducir el estrés diario y mejorar el bienestar físico/emocional mediante rutinas accesibles y flexibles. <br><br> **Identidad Visual definida:** Uso de tipografías legibles (Montserrat/Open Sans) y una paleta de colores que transmite calma y equilibrio. | **Dependencia de la comunidad:** El éxito del modelo depende de una participación activa de los usuarios para generar el soporte entre pares que propone esta iniciativa. |
 | **Factores Negativos** | **Oportunidades (Externas):** <br> Creciente demanda de soluciones de fitness que prioricen la salud mental y la desconexión del estrés laboral frente a la estética extrema. | **Amenazas (Externas):** <br> Competencia elevada de aplicaciones de entrenamiento genéricas que no ofrecen el factor de acompañamiento humano y grupal. |
 
 
@@ -157,7 +157,7 @@ que comparten el mismo camino.
 Aquí no importa de dónde partes, lo que importa es que no estás 
 solo. Juntos construimos hábitos deportivos reales, celebramos cada 
 pequeño avance y nos apoyamos cuando cuesta. Porque entrenar en 
-comunidad no solo es más divertido — es más humano.
+comunidad no solo es más divertido, es más humano.
 
 ¿Te unes? Tu mejor versión te está esperando. 😊
 
@@ -175,20 +175,19 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Sexo: Mujer 
 - Edad: 30 años 
 - Profesión: Ingeniera 
-- Nivel socioeconómico: Medio y medio-alto
 - Ciudad de Residencia: Granada, España.
 
 **Perfil psicológico:**
 - Alto nivel de estrés laboral
 - Sin hábitos deportivos establecidos
-- Con conciencia de que necesitan cambiar, pero sin motivación 
-  suficiente para hacerlo solos
-- Socialmente activos, con entornos que priorizan el ocio 
-  sedentario (bares, restaurantes, salidas nocturnas)
-- Estilo de Vida: Es una persona que posee una vida laboral con horario establecido de 08:00 AM a 18:00 PM de Lunes a Viernes. Vida social robusta, muchas amistades y vida familiar activa.
+- Con conciencia de que necesitan cambiar, pero sin motivación suficiente para hacerlo sola
+- Socialmente activa, con entornos que priorizan el ocio sedentario (bares, restaurantes, salidas nocturnas)
+- Estilo de Vida: Es una persona que posee una vida laboral con horario establecido de 08:00 AM a 18:00 PM de Lunes a Viernes. Amplia vida social, muchas amistades y vida familiar activa.
  
 **Dolor principal:**
-- Posee una vida social activa donde sus amistades no comparten el estilo de vida deportivo por lo que no tiene influencia desde su circulo cercano. Sus espectativas de la vida laboral han sido cumplidas ya que le provee una estabilidad en todo ámbito pero su desgaste físico es evidente y ella lo nota. Atraviesa por un periodo de ansiedad y frustracion al no poder tener una vida deportiva constante o no poder desarrollar motivación por una actividad que no sea el trabajo lo que le genera estres.
+- Posee una vida social activa donde sus amistades no comparten el estilo de vida deportivo por lo que no tiene influencia desde su circulo cercano.
+- Sus espectativas de la vida laboral han sido cumplidas ya que le provee una estabilidad en todo ámbito pero su desgaste físico es evidente y ella lo nota.
+- Atraviesa por un periodo de ansiedad y frustracion al no poder tener una vida deportiva constante o no poder desarrollar motivación por una actividad que no sea el trabajo lo que le genera estres.
 - Fricción con la vida social.
 - Incapacidad de autogestión.
 - Frustración por cambios lentos.
@@ -251,7 +250,7 @@ Evaluar el impacto real en los hábitos deportivos de los usuarios.
 
 **Impacto real:**
 - Semanas consecutivas de entrenamiento por usuario
-- Porcentaje de usuarios que completan un mes completo
+- Porcentaje de usuarios que completan un mes
 - Calificación promedio en tiendas de apps
 - Testimonios y casos de éxito documentados
 
