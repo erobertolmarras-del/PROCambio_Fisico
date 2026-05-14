@@ -193,6 +193,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Sobrecarga de información contradictoria
 
 🎯 **Lo que buscan (sin saberlo):**
+
 **Objetivos:**
 - Mejorar su salud física y emocional
 - Recuperar motivación y energía diaria 
