@@ -129,11 +129,9 @@ Dormir mejor y descansar de manera profunda con paz mental.
 El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y el conocimiento en la creación de hábitos deportivos diarios y continuos. 
 De acuerdo con esto, se propone compartir estos conocimientos de manera que personas las cuales no posean estos hábitos puedan adquirirlos de manera estructurada y organizada comenzando por pequeños cambios que en un principio no generen un impacto muy grande dentro de la cotidianidad.
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**  
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* identificar comunidades similares en otras rrss..
+Identificación de comunidades similares en otras RRSS:
 
 * **@Strava** ([strava.com/clubs](https://www.strava.com/clubs)): es una referencia clave por su sistema de validación social mediante "Kudos" y la creación de clubes que fomentan la competitividad sana.
 * **@RedditFitness** ([reddit.com/r/Fitness](https://www.reddit.com/r/Fitness/)): es un modelo a seguir por su organización técnica de información sobre nutrición y rutinas de hipertrofia validadas por la comunidad.
