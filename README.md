@@ -1,4 +1,4 @@
-## proyecto: PRO Cambio Físico
+## Proyecto: PRO Cambio Físico
 
 ``Plantilla para crear un proyecto de ideapolis``
 
@@ -13,8 +13,6 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 <br> 
 <br>
-
-
 
 
 **Titulo** : PRO Cambio Físico
@@ -55,7 +53,7 @@ Somos una comunidad que busca un cambio físico a traves del deporte y vida salu
 ### Misión
 Acompañar a personas sedentarias en su transformación hacia una vida activa y saludable, a través de una comunidad que entrena junta, se motiva mutuamente y valida el progreso real de cada integrante. Creemos que el cambio no se planea, se entrena — un hábito a la vez, un desafío a la vez, siempre en comunidad.
 
-10 mandamientos para la integración de hábitos deportivos de manera sana y saludable:
+**10 mandamientos para la integración de hábitos deportivos de manera sana y saludable:**
 
 - 💪 Tu mejor versión no se planea, se entrena.
 - 🔄 Entrena. Evoluciona. Repite.
@@ -169,24 +167,30 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 **Público Objetivo** :
 
-👤 **Perfil demográfico:**
-- Edad: 25 a 45 años
-- Profesionales activos en el mundo laboral
-- Nivel socioeconómico medio y medio-alto
-- Residentes en entornos urbanos
+👤 **Perfil Demográfico:**
+- Nombre: Yulia
+- Sexo: Mujer 
+- Edad: 30 años 
+- Profesión: Ingeniera 
+- Nivel socioeconómico: Medio y medio-alto
+- Ciudad de Residencia: Granada, España.
 
 🧠 **Perfil psicológico:**
-- Personas con altos niveles de estrés laboral
+- Alto nivel de estrés laboral
 - Sin hábitos deportivos establecidos
 - Con conciencia de que necesitan cambiar, pero sin motivación 
   suficiente para hacerlo solos
 - Socialmente activos, con entornos que priorizan el ocio 
   sedentario (bares, restaurantes, salidas nocturnas)
-
+- Estilo de Vida: Es una persona que posee una vida laboral con horario establecido de 08:00 AM a 18:00 PM de Lunes a Viernes. Vida social robusta, muchas amistades y vida familiar activa.
+ 
 😓 **Dolor principal:**
-- El ritmo laboral y social les impide priorizar su bienestar físico
-- Su círculo cercano no refuerza hábitos saludables
-- Han intentado hacer ejercicio antes pero no han logrado mantenerlo
+- Posee una vida social activa donde sus amistades no comparten el estilo de vida deportivo por lo que no tiene influencia desde su circulo cercano. Sus espectativas de la vida laboral han sido cumplidas ya que le provee una estabilidad en todo ámbito pero su desgaste físico es evidente y ella lo nota. Atraviesa por un periodo de ansiedad y frustracion al no poder tener una vida deportiva constante o no poder desarrollar motivación por una actividad que no sea el trabajo lo que le genera estres.
+- Fricción con la vida social.
+- Incapacidad de autogestión.
+- Frustración por cambios lentos.
+- Inseguridad por falta de ténicas.
+- Sobrecarga de información contradictoria
 
 🎯 **Lo que buscan (sin saberlo):**
 - Una comunidad que los motive sin juzgarlos
