@@ -26,7 +26,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **logotipo** :  
 <p align="center"
-<img src "LogoPROCambio_Fisico.png" width="200">
+<img src="LogoPROCambio_Fisico.png" width="200">
 </p>
 
 **Slogan** (frase motivadora/inspiradora): "Encuentra tu mejor versión"
