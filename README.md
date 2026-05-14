@@ -218,10 +218,7 @@ https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estr
 
 ## Etapa 3: Producción y evaluación
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-
-### Estrategia para diseñar comunidad
+## Estrategia para diseñar comunidad
 
 ## Estrategia de Evaluación
 
@@ -268,9 +265,46 @@ Evaluar el impacto real en los hábitos deportivos de los usuarios.
 - Promedio de 3 sesiones de entrenamiento semanales por usuario
 - Calificación mínima de 4.5 estrellas en tiendas de apps
 
-### Preguntas frecuentes
+### Preguntas frecuentes (FAQ)
 
+**¿Necesito tener experiencia deportiva para usar la app?**
+No, PRO Cambio Físico está diseñada especialmente para personas 
+que están comenzando desde cero. Las rutinas son progresivas y 
+se adaptan a tu nivel actual.
 
+**¿Puedo usar la app de manera individual?**
+Sí, puedes usarla de forma individual, pero la experiencia es 
+mucho más enriquecedora en comunidad. ¡Te animamos a unirte 
+o crear un grupo de entrenamiento!
+
+**¿Cómo se verifica que realmente completé un desafío?**
+Tu grupo de entrenamiento es el testigo de tu progreso. Puedes 
+compartir tu avance con fotos, videos o check-ins dentro de la 
+app, y tu comunidad lo validará.
+
+**¿Cuánto tiempo debo dedicar al día?**
+Con 20 a 30 minutos diarios es suficiente para comenzar. 
+La idea es construir el hábito de manera progresiva y 
+sostenible, sin que se sienta como una obligación.
+
+**¿La app es gratuita?**
+PRO Cambio Físico tendrá una versión gratuita con acceso a 
+funcionalidades básicas y una versión premium con contenido 
+exclusivo, seguimiento avanzado y acceso a grupos especiales.
+
+**¿Qué tipo de ejercicios incluye?**
+Rutinas de cardio, fuerza, movilidad y bienestar adaptadas 
+a personas sedentarias, sin necesidad de equipamiento especial 
+ni ir al gimnasio.
+
+**¿Puedo crear mi propio grupo de entrenamiento?**
+¡Sí! Puedes invitar a amigos, compañeros de trabajo o 
+familiares a entrenar juntos, fijar metas grupales y 
+celebrar los logros en comunidad.
+
+**¿Qué pasa si un día no puedo entrenar?**
+No pasa nada, la app no penaliza las ausencias. Tu comunidad 
+está ahí para motivarte a retomar el ritmo, no para juzgarte.
 
 ## Conclusiones y trabajo futuro
 
