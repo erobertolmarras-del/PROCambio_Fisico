@@ -211,31 +211,32 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Motivación diaria y sensación de progreso
 - Espacio donde se sienta comprendida
 
-## Etapa 2: Prototipar / productos 
+### Etapa 2: Prototipar / productos 
 
 https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estrat%C3%A9gicamente?p=f&t=K9l4CQORm6TvIsAK-0
 
 
 ### Etapa 3: Producción y evaluación
 
+
+
 ## Estrategia de Evaluación
 
 Para medir el éxito de PRO Cambio Físico utilizaremos una estrategia 
 basada en tres etapas: lanzamiento, crecimiento y consolidación.
 
-## Etapa 1 — Lanzamiento (primeros 3 meses)
+# Etapa 1 — Lanzamiento (primeros 3 meses)
 Validar que la propuesta conecta con el público objetivo y que la 
 app funciona correctamente.
 
-## Etapa 2 — Crecimiento (3 a 6 meses)
+# Etapa 2 — Crecimiento (3 a 6 meses)
 Medir la retención de usuarios y el crecimiento de la comunidad.
 
-## Etapa 3 — Consolidación (6 a 12 meses)
+# Etapa 3 — Consolidación (6 a 12 meses)
 Evaluar el impacto real en los hábitos deportivos de los usuarios.
 
----
 
-### Indicadores de Éxito (KPIs)
+## Indicadores de Éxito (KPIs)
 
 **Comunidad y crecimiento:**
 - Número de usuarios registrados
@@ -255,7 +256,6 @@ Evaluar el impacto real en los hábitos deportivos de los usuarios.
 - Calificación promedio en tiendas de apps
 - Testimonios y casos de éxito documentados
 
----
 
 ### Meta a 12 meses
 - 1.000 usuarios activos mensuales
@@ -266,51 +266,86 @@ Evaluar el impacto real en los hábitos deportivos de los usuarios.
 ### Preguntas frecuentes (FAQ)
 
 **¿Necesito tener experiencia deportiva para usar la app?**
-No, PRO Cambio Físico está diseñada especialmente para personas 
-que están comenzando desde cero. Las rutinas son progresivas y 
-se adaptan a tu nivel actual.
+No, PRO Cambio Físico está diseñada especialmente para personas que están comenzando desde cero. Las rutinas son progresivas y se adaptan a tu nivel actual.
 
 **¿Puedo usar la app de manera individual?**
-Sí, puedes usarla de forma individual, pero la experiencia es 
-mucho más enriquecedora en comunidad. ¡Te animamos a unirte 
-o crear un grupo de entrenamiento!
+Sí, puedes usarla de forma individual, pero la experiencia es mucho más enriquecedora en comunidad. ¡Te animamos a unirte o crear un grupo de entrenamiento!
 
 **¿Cómo se verifica que realmente completé un desafío?**
-Tu grupo de entrenamiento es el testigo de tu progreso. Puedes 
-compartir tu avance con fotos, videos o check-ins dentro de la 
-app, y tu comunidad lo validará.
+Tu grupo de entrenamiento es el testigo de tu progreso. Puedes compartir tu avance con fotos, videos o check-ins dentro de la app, y tu comunidad lo validará.
 
 **¿Cuánto tiempo debo dedicar al día?**
-Con 20 a 30 minutos diarios es suficiente para comenzar. 
-La idea es construir el hábito de manera progresiva y 
-sostenible, sin que se sienta como una obligación.
+Con 20 a 30 minutos diarios es suficiente para comenzar. La idea es construir el hábito de manera progresiva y sostenible, sin que se sienta como una obligación.
 
 **¿La app es gratuita?**
-PRO Cambio Físico tendrá una versión gratuita con acceso a 
-funcionalidades básicas y una versión premium con contenido 
-exclusivo, seguimiento avanzado y acceso a grupos especiales.
+PRO Cambio Físico tendrá una versión gratuita con acceso a funcionalidades básicas y una versión premium con contenido exclusivo, seguimiento avanzado y acceso a grupos especiales.
 
 **¿Qué tipo de ejercicios incluye?**
-Rutinas de cardio, fuerza, movilidad y bienestar adaptadas 
-a personas sedentarias, sin necesidad de equipamiento especial 
-ni ir al gimnasio.
+Rutinas de cardio, fuerza, movilidad y bienestar adaptadas a personas sedentarias, sin necesidad de equipamiento especial ni ir al gimnasio.
 
 **¿Puedo crear mi propio grupo de entrenamiento?**
-¡Sí! Puedes invitar a amigos, compañeros de trabajo o 
-familiares a entrenar juntos, fijar metas grupales y 
-celebrar los logros en comunidad.
+¡Sí! Puedes invitar a amigos, compañeros de trabajo o familiares a entrenar juntos, fijar metas grupales y celebrar los logros en comunidad.
 
 **¿Qué pasa si un día no puedo entrenar?**
-No pasa nada, la app no penaliza las ausencias. Tu comunidad 
-está ahí para motivarte a retomar el ritmo, no para juzgarte.
+No pasa nada, la app no penaliza las ausencias. Tu comunidad está ahí para motivarte a retomar el ritmo, no para juzgarte.
 
 ## Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+# Grado de consecución del proyecto
+PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenciadora en el mercado de apps de bienestar deportivo. Durante esta etapa inicial se han definido con éxito los pilares fundamentales del proyecto: identidad de marca, público objetivo, metodología de desarrollo basada en UX, modelo de comunidad activa y estrategia de evaluación. La propuesta responde a una necesidad real e identificada — el sedentarismo en profesionales con altos niveles de estrés — y plantea una solución innovadora basada en la validación comunitaria del progreso, lo que la diferencia claramente de otras apps de fitness existentes en el mercado.
+
+
+# Problemas identificados
+
+**Técnicos:**
+- El desarrollo de un sistema de validación comunitaria en tiempo 
+  real representa un desafío técnico considerable que requerirá 
+  un equipo de desarrollo especializado.
+- La sincronización de grupos de entrenamiento en diferentes 
+  zonas horarias puede generar fricciones en la experiencia 
+  de usuario.
+- La moderación del contenido compartido por los usuarios 
+  (fotos, videos) requerirá políticas claras y herramientas 
+  automatizadas.
+
+**Sobre la idea inicial:**
+- La propuesta inicial no contemplaba un modelo de monetización definido, lo que se ha ido perfilando durante el proceso.
+- Fue necesario acotar el público objetivo para no dispersar los esfuerzos — inicialmente se pensaba en un público más amplio y general.
+
+**Planificación:**
+- El alcance del proyecto es ambicioso para un equipo pequeño, por lo que será necesario priorizar funcionalidades para un MVP (producto mínimo viable) antes de escalar.
+- La coordinación entre los integrantes del equipo en etapas de diseño y definición de contenidos requirió más iteraciones de las esperadas.
+
+
+# Propuestas de mejora
+PRO Cambio Físico merece continuar por las siguientes razones:
+
+- **Problema real y vigente**: El sedentarismo y el estrés laboral son problemas crecientes en la sociedad actual, lo que garantiza una demanda sostenida.
+- **Diferenciador único**: La validación comunitaria del progreso es una propuesta que no existe de forma consolidada en el mercado actual de apps de fitness.
+- **Escalabilidad**: La app puede evolucionar incorporando funcionalidades como nutrición, salud mental, retos corporativos o gamificación progresiva.
+- **Potencial de expansión**: El modelo de comunidad puede  replicarse en diferentes idiomas y culturas sin perder su esencia.
+- **Modelo de negocio viable**: La combinación de versión gratuita y premium, junto con posibles alianzas corporativas, ofrece múltiples fuentes de ingresos.
+
+
+# Posible interés del proyecto
+
+**¿Quién podría colaborar o involucrarse?**
+
+**Empresas y corporativos:**
+Compañías con programas de bienestar laboral que buscan reducir el ausentismo y mejorar la salud de sus empleados podrían adoptar PRO Cambio Físico como herramienta de bienestar corporativo — representando un canal de distribución masivo.
+
+**Sector salud y bienestar:**
+Clínicas, nutricionistas, psicólogos deportivos y médicos podrían colaborar como generadores de contenido especializado dentro de la app, aportando credibilidad y valor diferencial.
+
+**Marcas deportivas:**
+Empresas como Nike, Adidas o Under Armour podrían ver en PRO Cambio Físico una plataforma de comunidad alineada con sus valores de marca para patrocinios o colaboraciones.
+
+**Inversores y aceleradoras de startups:**
+El modelo de negocio escalable y el mercado amplio hacen del proyecto una propuesta atractiva para inversores enfocados en FitTech o WellnessTech.
+
+**¿Es viable?**
+Sí. PRO Cambio Físico es un proyecto viable porque combina una necesidad real, un modelo de comunidad escalable y un mercado en crecimiento. Con un desarrollo por etapas, comenzando por un MVP bien definido, el proyecto tiene las bases sólidas para convertirse en una referencia en el ecosistema de apps de hábitos deportivos.
 
 
 ## Referencias y recursos
@@ -327,4 +362,4 @@ está ahí para motivarte a retomar el ritmo, no para juzgarte.
 
 
 
-Granada, Junio 202X
+Granada, Junio 2026
