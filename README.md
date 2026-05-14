@@ -240,6 +240,10 @@ En la última sección se ha integrado una invitación directa a todos aquellos 
 
 Landing Page URL:[PRO Cambio Fisico](https://www.figma.com/make/gFR53j4K4eg9pfYEoSTzE9/Interfaz-de-app-PRO-Cambio-F%C3%ADsico?code-node-id=0-9&p=f&t=CvK6R61HrGyRR51G-0&fullscreen=1)
 
+En ambos, se ha utilizado los colores Azul claro con el objetivo de entregar una imagen pacífica donde de manera amigable se pueda compartir una iniciativa que les cambie la vida.
+El blanco que también tiene como objetivo de entregar una sensasión pacífica, con imágenes de grupos que se ejercitan de manera conjunta y en la naturaleza.
+
+
 
 ## Etapa 3: Producción y evaluación
 
