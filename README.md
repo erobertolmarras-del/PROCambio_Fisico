@@ -96,9 +96,11 @@ Se realizaron distintas actividades en Trello para la creación y estructuració
 
 Luego, se continua con la realización de un mapa de empatía donde se definieron distintos puntos a continuación:
 - Caso de estudio: Acompañamiento y supervisión de cambio físico para personas que no poseen hábitos deportivos de ningún tipo. Este acompañamiento consta de generar una estructura que se adecue a su estilo de vida, ya sea horarios, vida social y trabajo.  Esta estructura se compone desde técnicas de liberación de estrés mediante el deporte hasta prestación de servicios de aplicaciones de organización alimenticia, tiempos de sueño/descanso, estiramientos preventivos a lesiones y organizacion de tiempo.
+  
 - Pensamientos y Sentimientos:
 - - **¿Qué piensa y siente?: Sus preocupaciones, metas y emociones reales.**
   - Estrés laboral, agobio, poca motivación para la vida cotidiana. Frustración ante los resultados negativos de la mala organización. Ansiedad. Agobio debido a que no encuentra solución para inegrar la vida laboral con la vida deportiva y social.
+    
   - **¿Que OYE?**
   - “Mejor salgamos a un bar”
   - ”Mañana entrenas, hoy hagamos otra cosa”
@@ -106,8 +108,10 @@ Luego, se continua con la realización de un mapa de empatía donde se definiero
   - ”Para que vas a pagar si no vas a ir?”
   - ”No lo necesitas, estas bien”
   - ”Te sugiero la dieta3000 que te hara bajar de peso en 2 dias”
+    
   - **¿Que VE?**
   - Ve a mucha gente obteniendo resultados positivos. Mucha presión social para ser más productivo/a. Personas que van regularmente a hacer vida social. Lee mucha información respecto alimentación y vida sana. Observa personas que tienen mucha disciplina y organizada  en su entrenamiento.
+    
   - **¿Que DICE Y HACE?**
   - DICE: “No puedo entrenar debido a que tengo mucho trabajo” ”La próxima semana comienzo a entrenar” ”Uff!! Suena mejor el otro plan”
   - HACE: Continua con su vida normal, posponiendo el entrenamiento. Se apunta al gimnasio y no asiste de manera regular. Continua prefiriendo los planes de ocio frente a sus objetivos. Busca ejercicios sin mucho esfuerzo de por medio.
@@ -143,13 +147,54 @@ De acuerdo con esto, se propone compartir estos conocimientos de manera que pers
 
 ### Motivación de la propuesta
 
-¿ por qué consideras interesante ? 
+Sabemos lo difícil que puede ser dar el primer paso hacia una vida 
+más activa, especialmente cuando el día a día nos consume. Por eso 
+nació PRO Cambio Físico — no como una obligación, sino como una 
+invitación a mejorar de a poco, a tu ritmo y acompañado de personas 
+que comparten el mismo camino.
+
+Aquí no importa de dónde partes, lo que importa es que no estás 
+solo. Juntos construimos hábitos deportivos reales, celebramos cada 
+pequeño avance y nos apoyamos cuando cuesta. Porque entrenar en 
+comunidad no solo es más divertido — es más humano.
+
+¿Te unes? Tu mejor versión te está esperando. 😊
 
 ### Personas/Usuarios
-(...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**¿En quién piensas que puede ser útil?**
+
+PRO Cambio Físico está diseñado para todas aquellas personas que 
+quieren dar el primer paso hacia una vida más activa pero no saben 
+por dónde empezar o sienten que no tienen tiempo ni motivación.
+
+**Público Objetivo** :
+
+👤 **Perfil demográfico:**
+- Edad: 25 a 45 años
+- Profesionales activos en el mundo laboral
+- Nivel socioeconómico medio y medio-alto
+- Residentes en entornos urbanos
+
+🧠 **Perfil psicológico:**
+- Personas con altos niveles de estrés laboral
+- Sin hábitos deportivos establecidos
+- Con conciencia de que necesitan cambiar, pero sin motivación 
+  suficiente para hacerlo solos
+- Socialmente activos, con entornos que priorizan el ocio 
+  sedentario (bares, restaurantes, salidas nocturnas)
+
+😓 **Dolor principal:**
+- El ritmo laboral y social les impide priorizar su bienestar físico
+- Su círculo cercano no refuerza hábitos saludables
+- Han intentado hacer ejercicio antes pero no han logrado mantenerlo
+
+🎯 **Lo que buscan (sin saberlo):**
+- Una comunidad que los motive sin juzgarlos
+- Rutinas flexibles que se adapten a su estilo de vida
+- Pequeños logros que los mantengan enganchados
+- Un entorno social alternativo basado en el movimiento
 
 ``Diseño de persona con characterAI``
-
 
 ## Etapa 2: Prototipar / productos 
 
