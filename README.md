@@ -127,6 +127,12 @@ Mitigación de cuadros de estrés producto de la vida laboral que lleva.
 Dormir mejor y descansar de manera profunda con paz mental.
 
 - Identificación de los 6 "Thinking Hats"
+Implementamos la metodología de los "6 Sombreros para Pensar" para estructurar nuestro proceso de toma de decisiones. Esta técnica nos permite analizar el proyecto PRO Cambio Físico desde perspectivas muy distintas y organizadas. Usamos el sombrero blanco para centrarnos en los datos objetivos del sedentarismo y el sombrero rojo para validar las emociones del usuario. El sombrero negro nos ayuda a detectar riesgos de desmotivación, mientras que el amarillo y verde impulsan el optimismo y la creatividad en las rutinas. Finalmente, el sombrero azul coordina todo el proceso para asegurar que el acompañamiento personalizado sea efectivo. Esta visión integral garantiza que el desarrollo sea equilibrado, profesional y centrado en resultados reales.
+
+<p align="center">
+  <img src="" width="500">
+</p>
+
 
   
 **¿Como surge el proyecto?**
