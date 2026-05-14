@@ -297,19 +297,13 @@ PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenc
 ### Problemas identificados
 
 **Técnicos:**
-- El desarrollo de un sistema de validación comunitaria en tiempo 
-  real representa un desafío técnico considerable que requerirá 
-  un equipo de desarrollo especializado.
-- La sincronización de grupos de entrenamiento en diferentes 
-  zonas horarias puede generar fricciones en la experiencia 
-  de usuario.
-- La moderación del contenido compartido por los usuarios 
-  (fotos, videos) requerirá políticas claras y herramientas 
-  automatizadas.
+- El desarrollo de un sistema de validación comunitaria en tiempo real representa un desafío técnico considerable que requerirá un equipo de desarrollo especializado.
+- La sincronización de grupos de entrenamiento en diferentes zonas horarias puede generar fricciones en la experiencia de usuario.
+- La moderación del contenido compartido por los usuarios (fotos, videos) requerirá políticas claras y herramientas automatizadas.
 
 **Sobre la idea inicial:**
 - La propuesta inicial no contemplaba un modelo de monetización definido, lo que se ha ido perfilando durante el proceso.
-- Fue necesario acotar el público objetivo para no dispersar los esfuerzos — inicialmente se pensaba en un público más amplio y general.
+- Fue necesario ampliar la idea hacia un público objetivo más general y generar un mensaje más amigable hacia todos los potenciales usuarios que requieran utilizarla con el objetivo de integrar y no imponer, y así convertirse en una herramienta de acompañamiento universal.
 
 **Planificación:**
 - El alcance del proyecto es ambicioso para un equipo pequeño, por lo que será necesario priorizar funcionalidades para un MVP (producto mínimo viable) antes de escalar.
