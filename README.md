@@ -93,6 +93,20 @@ El diseño UX prioriza la simplicidad, la accesibilidad y la motivación positiv
 Se realizaron distintas actividades en Trello para la creación y estructuración de la idea de negocio:
 - Brainstorming: Describir en post it la descripción de la idea el cual consiste en lo siguiente:
 "Ayudar a una comunidad a lograr un cambio fisico liberando el estres y apoyando desde lo motivacional generando una estructura y organización clara adaptable a la persona en específico."
+
+Luego, se continua con la realización de un mapa de empatía donde se definieron distintos puntos a continuación:
+- Caso de estudio: Acompañamiento y supervisión de cambio físico para personas que no poseen hábitos deportivos de ningún tipo. Este acompañamiento consta de generar una estructura que se adecue a su estilo de vida, ya sea horarios, vida social y trabajo.  Esta estructura se compone desde técnicas de liberación de estrés mediante el deporte hasta prestación de servicios de aplicaciones de organización alimenticia, tiempos de sueño/descanso, estiramientos preventivos a lesiones y organizacion de tiempo.
+- Pensamientos y Sentimientos:
+- - ¿Qué piensa y siente?: Sus preocupaciones, metas y emociones reales.
+  - Estrés laboral, agobio, poca motivación para la vida cotidiana. Frustración ante los resultados negativos de la mala organización. Ansiedad. Agobio debido a que no encuentra solución para inegrar la vida laboral con la vida deportiva y social.
+  - ¿Que OYE?
+  - “Mejor salgamos a un bar”
+  - ”Mañana entrenas, hoy hagamos otra cosa”
+  - ”Estas segura de que puedes?”
+  - ”Para que vas a pagar si no vas a ir?”
+  - ”No lo necesitas, estas bien”
+  - ”Te sugiero la dieta3000 que te hara bajar de peso en 2 dias”
+
   
 **¿Como surge el proyecto?**
 El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y el conocimiento en la creación de hábitos deportivos diarios y continuos. 
