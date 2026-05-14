@@ -211,32 +211,31 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Motivación diaria y sensación de progreso
 - Espacio donde se sienta comprendida
 
-### Etapa 2: Prototipar / productos 
+## Etapa 2: Prototipar / productos 
 
 https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estrat%C3%A9gicamente?p=f&t=K9l4CQORm6TvIsAK-0
 
 
-### Etapa 3: Producción y evaluación
+## Etapa 3: Producción y evaluación
 
 
-
-## Estrategia de Evaluación
+### Estrategia de Evaluación
 
 Para medir el éxito de PRO Cambio Físico utilizaremos una estrategia 
 basada en tres etapas: lanzamiento, crecimiento y consolidación.
 
-# Etapa 1 — Lanzamiento (primeros 3 meses)
+### Etapa 1 — Lanzamiento (primeros 3 meses)
 Validar que la propuesta conecta con el público objetivo y que la 
 app funciona correctamente.
 
-# Etapa 2 — Crecimiento (3 a 6 meses)
+### Etapa 2 — Crecimiento (3 a 6 meses)
 Medir la retención de usuarios y el crecimiento de la comunidad.
 
-# Etapa 3 — Consolidación (6 a 12 meses)
+### Etapa 3 — Consolidación (6 a 12 meses)
 Evaluar el impacto real en los hábitos deportivos de los usuarios.
 
 
-## Indicadores de Éxito (KPIs)
+### Indicadores de Éxito (KPIs)
 
 **Comunidad y crecimiento:**
 - Número de usuarios registrados
@@ -292,11 +291,11 @@ No pasa nada, la app no penaliza las ausencias. Tu comunidad está ahí para mot
 ## Conclusiones y trabajo futuro
 
 
-# Grado de consecución del proyecto
+## Grado de consecución del proyecto
 PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenciadora en el mercado de apps de bienestar deportivo. Durante esta etapa inicial se han definido con éxito los pilares fundamentales del proyecto: identidad de marca, público objetivo, metodología de desarrollo basada en UX, modelo de comunidad activa y estrategia de evaluación. La propuesta responde a una necesidad real e identificada — el sedentarismo en profesionales con altos niveles de estrés — y plantea una solución innovadora basada en la validación comunitaria del progreso, lo que la diferencia claramente de otras apps de fitness existentes en el mercado.
 
 
-# Problemas identificados
+### Problemas identificados
 
 **Técnicos:**
 - El desarrollo de un sistema de validación comunitaria en tiempo 
@@ -318,7 +317,7 @@ PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenc
 - La coordinación entre los integrantes del equipo en etapas de diseño y definición de contenidos requirió más iteraciones de las esperadas.
 
 
-# Propuestas de mejora
+### Propuestas de mejora
 PRO Cambio Físico merece continuar por las siguientes razones:
 
 - **Problema real y vigente**: El sedentarismo y el estrés laboral son problemas crecientes en la sociedad actual, lo que garantiza una demanda sostenida.
@@ -328,7 +327,7 @@ PRO Cambio Físico merece continuar por las siguientes razones:
 - **Modelo de negocio viable**: La combinación de versión gratuita y premium, junto con posibles alianzas corporativas, ofrece múltiples fuentes de ingresos.
 
 
-# Posible interés del proyecto
+### Posible interés del proyecto
 
 **¿Quién podría colaborar o involucrarse?**
 
