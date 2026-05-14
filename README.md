@@ -97,15 +97,20 @@ Se realizaron distintas actividades en Trello para la creación y estructuració
 Luego, se continua con la realización de un mapa de empatía donde se definieron distintos puntos a continuación:
 - Caso de estudio: Acompañamiento y supervisión de cambio físico para personas que no poseen hábitos deportivos de ningún tipo. Este acompañamiento consta de generar una estructura que se adecue a su estilo de vida, ya sea horarios, vida social y trabajo.  Esta estructura se compone desde técnicas de liberación de estrés mediante el deporte hasta prestación de servicios de aplicaciones de organización alimenticia, tiempos de sueño/descanso, estiramientos preventivos a lesiones y organizacion de tiempo.
 - Pensamientos y Sentimientos:
-- - ¿Qué piensa y siente?: Sus preocupaciones, metas y emociones reales.
+- - **¿Qué piensa y siente?: Sus preocupaciones, metas y emociones reales.**
   - Estrés laboral, agobio, poca motivación para la vida cotidiana. Frustración ante los resultados negativos de la mala organización. Ansiedad. Agobio debido a que no encuentra solución para inegrar la vida laboral con la vida deportiva y social.
-  - ¿Que OYE?
+  - **¿Que OYE?**
   - “Mejor salgamos a un bar”
   - ”Mañana entrenas, hoy hagamos otra cosa”
   - ”Estas segura de que puedes?”
   - ”Para que vas a pagar si no vas a ir?”
   - ”No lo necesitas, estas bien”
   - ”Te sugiero la dieta3000 que te hara bajar de peso en 2 dias”
+  - **¿Que VE?**
+  - Ve a mucha gente obteniendo resultados positivos. Mucha presión social para ser más productivo/a. Personas que van regularmente a hacer vida social. Lee mucha información respecto alimentación y vida sana. Observa personas que tienen mucha disciplina y organizada  en su entrenamiento.
+  - **¿Que DICE Y HACE?**
+  - “No puedo entrenar debido a que tengo mucho trabajo” ”La próxima semana comienzo a entrenar” ”Uff!! Suena mejor el otro plan”
+  - Continua con su vida normal, posponiendo el entrenamiento. Se apunta al gimnasio y no asiste de manera regular. Continua prefiriendo los planes de ocio frente a sus objetivos. Busca ejercicios sin mucho esfuerzo de por medio.
 
   
 **¿Como surge el proyecto?**
