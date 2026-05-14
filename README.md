@@ -249,7 +249,7 @@ Publicar en RRSS distintos post para que el público se acerque y vea nuestra in
 
 Post en Instagram: 
 <p align="center">
-  <img src="" width="500">
+  <img src="Post Instagram PRO Cambio Físico" width="500">
 </p>
 
 ### Estrategia de Evaluación
