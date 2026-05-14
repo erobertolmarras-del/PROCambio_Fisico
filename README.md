@@ -37,17 +37,20 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Fecha** : 14/05/2026
 
-**Medios** (donde se tiene presencia): 
+**Medios** : 
 
-
-* :octocat: (github url) 
-* Landing Page: ``URL landing page``
- 
-
+* :octocat: GitHub: https://github.com/PROCambioFisico
+* 🌐 Landing Page: https://www.procambiofisico.com
+* 📱 App Store (iOS): https://apps.apple.com/app/procambiofisico
+* 🤖 Google Play (Android): https://play.google.com/store/apps/procambiofisico
+* 📸 Instagram: https://www.instagram.com/procambiofisico
+* 🎵 TikTok: https://www.tiktok.com/@procambiofisico
+* 📘 Facebook: https://www.facebook.com/procambiofisico
+* 💼 LinkedIn: https://www.linkedin.com/company/procambiofisico
 
 
 ## ¿Quiénes somos?
-
+Somos una comunidad que busca un cambio físico a traves del deporte y vida saludable. Buscamos crear hábitos e inculcarlos dentro del estilo de vida de las personas que aceptan este desafío y que vean resultados reflejados en cuanto a sentirse mejor y con más energía en el día a día. Este cambio no lo realizarán solos, sino que se hara el comunidad donde se encuentre el apoyo necesario para mantener una continuidad y también para superarse en grupo compartiendo experiencias, desafíos o bien acompañandose a entrenar en un mismo día y hora.
 
 ### Misión
 
@@ -65,16 +68,27 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ## Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+**Metodología de desarrollo** :
 
-(Fundamentos)
+PRO Cambio Físico se desarrolla bajo una estrategia de Diseño de 
+Experiencia de Usuario (UX), centrada en cuatro pilares principales:
 
+1. **Comunidad activa**: Los usuarios pueden crear y unirse a grupos de entrenamiento, realizando sesiones compartidas con amigos o conocidos (ej: "Clarita y Andrea — Sesión 5 semanal"), fomentando la motivación colectiva y el compromiso grupal.
+
+2. **Hábitos progresivos** : La app guía a personas sedentarias hacia una vida más activa mediante rutinas adaptadas, recordatorios y seguimiento de progreso semanal.
+
+3. **Contenido de valor** : Se entregan consejos prácticos de entrenamiento y vida deportiva, diseñados para integrarse fácilmente en la rutina diaria del usuario.
+
+4. **Seguimiento y validación comunitaria**: El progreso semanal no es autoreportado — la comunidad es testigo activo del cumplimiento de los desafíos. Cada sesión completada puede ser verificada por los compañeros de grupo, eliminando la simulación de logros y fomentando una cultura de compromiso real y honesto con los objetivos deportivos.
+
+El diseño UX prioriza la simplicidad, la accesibilidad y la motivación positiva, asegurando que cualquier persona, sin importar su nivel físico, pueda comenzar y mantener sus hábitos deportivos.
 
 ## Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **¿Como surge el proyecto?**
+El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y sus respectivas 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
