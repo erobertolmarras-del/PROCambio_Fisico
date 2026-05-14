@@ -222,10 +222,18 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 ## Etapa 2: Prototipar / productos 
 
+Se ha desarrollado en figma nuestro manifiesto que consiste en entregar motivación a los usuarios y definir la identidad y el propósito de la iniciativa de PRO Cambio Físico. 
+Este manifiesto nos sirve como una brújula para mantener la coherencia en la comunicación visual y el tono de los mensajes hacia futuros usuarios.
+
 Manifiesto:[Manifiesto PRO Cambio Fisico](https://used-lilac-72169169.figma.site)
+
+Landing Page: (Describir el enfoque) 
 
 ## Etapa 3: Producción y evaluación
 
+### Estrategia de Integración al Público
+
+Publicar en RRSS distintos post para que el público se acerque y vea nuestra iniciativa. Estos post serán compartidos a través de Instagram y Tik Tok con el objetivo de que se propague el mensaje de "Generar hábitos saludables", "Una vida sana que se adecua a tus tiempos" y "Libera el estrés con deporte"
 
 ### Estrategia de Evaluación
 
@@ -263,7 +271,6 @@ Evaluar el impacto real en los hábitos deportivos de los usuarios.
 - Calificación promedio en tiendas de apps
 - Testimonios y casos de éxito documentados
 
-
 ### Meta a 12 meses
 - 1.000 usuarios activos mensuales
 - 70% de tasa de retención mensual
@@ -298,7 +305,7 @@ No pasa nada, la app no penaliza las ausencias. Tu comunidad está ahí para mot
 
 ## Conclusiones y trabajo futuro
 
-
+Integrar reflexión personal.
 PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenciadora en el mercado de apps de bienestar deportivo. Durante esta etapa inicial se han definido con éxito los pilares fundamentales del proyecto: identidad de marca, público objetivo, metodología de desarrollo basada en UX, modelo de comunidad activa y estrategia de evaluación. La propuesta responde a una necesidad real e identificada — el sedentarismo en profesionales con altos niveles de estrés y rutinas de vida muy estructuradas con poco tiempo para relajo — y plantea una solución innovadora basada en la validación comunitaria del progreso, lo que la diferencia claramente de otras apps de fitness existentes en el mercado.
 
 
