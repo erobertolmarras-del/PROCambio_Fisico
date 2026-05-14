@@ -222,7 +222,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 ## Etapa 2: Prototipar / productos 
 
-[https://www.procambiofisico.com](https://used-lilac-72169169.figma.site)
+Manifiesto:[Manifiesto PRO Cambio Fisico](https://used-lilac-72169169.figma.site)
 
 ## Etapa 3: Producción y evaluación
 
