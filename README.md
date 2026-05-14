@@ -89,6 +89,11 @@ Se realizaron distintas actividades en Trello para la creación y estructuració
 "Ayudar a una comunidad a lograr un cambio fisico liberando el estres y apoyando desde lo motivacional generando una estructura y organización clara adaptable a la persona en específico."
 
 Luego, se continua con la realización de un mapa de empatía donde se definieron distintos puntos a continuación:
+
+<p align="center">
+  <img src="Mapa Empatia.png" width="500">
+</p>
+
 - Caso de estudio: Acompañamiento y supervisión de cambio físico para personas que no poseen hábitos deportivos de ningún tipo. Este acompañamiento consta de generar una estructura que se adecue a su estilo de vida, ya sea horarios, vida social y trabajo.  Esta estructura se compone desde técnicas de liberación de estrés mediante el deporte hasta prestación de servicios de aplicaciones de organización alimenticia, tiempos de sueño/descanso, estiramientos preventivos a lesiones y organizacion de tiempo.
   
 - Pensamientos y Sentimientos:
