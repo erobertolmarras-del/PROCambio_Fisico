@@ -39,8 +39,11 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 * :octocat: GitHub: https://github.com/PROCambioFisico
 * 🌐 Landing Page: https://desk-scrub-23488244.figma.site/
-* 📸 Instagram: https://www.instagram.com/procambiofisico
-* 🎵 TikTok: https://www.tiktok.com/@procambiofisico
+* 📸 Instagram:
+<p align="center">
+  <img src="PRo Cambio Físico" width="500">
+</p>
+
 
 
 ## ¿Quiénes somos?
