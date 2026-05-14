@@ -340,17 +340,14 @@ El modelo de negocio escalable y el mercado amplio hacen del proyecto una propue
 Sí. PRO Cambio Físico es un proyecto viable porque combina una necesidad real, un modelo de comunidad escalable y un mercado en crecimiento. Con un desarrollo por etapas, comenzando por un MVP bien definido, el proyecto tiene las bases sólidas para convertirse en una referencia en el ecosistema de apps de hábitos deportivos.
 
 
-## Referencias y recursos
+## Referencias y recursos
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
+* [Entendimiento experiencias de usuario UX]: https://blog.hubspot.es/website/experiencia-de-usuario-ux
+* [Fases del proceso UX]:https://moainstitute.com/fases-del-proceso-ux-y-metodos/
+* [Metodologías UX]: https://uixdesign.com/blog/metodologias-de-ux-como-transformar-la-experiencia-de-usuario
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
+* [Creación de Logotipos]:https://myfreelogomaker.com/
 
 
 
