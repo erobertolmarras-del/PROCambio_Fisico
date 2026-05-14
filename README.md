@@ -109,9 +109,19 @@ Luego, se continua con la realización de un mapa de empatía donde se definiero
   - **¿Que VE?**
   - Ve a mucha gente obteniendo resultados positivos. Mucha presión social para ser más productivo/a. Personas que van regularmente a hacer vida social. Lee mucha información respecto alimentación y vida sana. Observa personas que tienen mucha disciplina y organizada  en su entrenamiento.
   - **¿Que DICE Y HACE?**
-  - “No puedo entrenar debido a que tengo mucho trabajo” ”La próxima semana comienzo a entrenar” ”Uff!! Suena mejor el otro plan”
-  - Continua con su vida normal, posponiendo el entrenamiento. Se apunta al gimnasio y no asiste de manera regular. Continua prefiriendo los planes de ocio frente a sus objetivos. Busca ejercicios sin mucho esfuerzo de por medio.
+  - DICE: “No puedo entrenar debido a que tengo mucho trabajo” ”La próxima semana comienzo a entrenar” ”Uff!! Suena mejor el otro plan”
+  - HACE: Continua con su vida normal, posponiendo el entrenamiento. Se apunta al gimnasio y no asiste de manera regular. Continua prefiriendo los planes de ocio frente a sus objetivos. Busca ejercicios sin mucho esfuerzo de por medio.
 
+- Idetificación de **Dolor**:
+Siente culpa por posponer constantemente su bienestar personal.  Frustración ante no tener la capacidad para poder organizarse de una vez. Malestar físico debido a que no tiene una buena alimentación.
+Ansieda de por no conseguir equilibrar su vida laboral, social y deportiva
+
+- Identificación de **Ganancias**:
+Lograr completar una semana de entrenamiento adaptada a su horario real.
+Ordenar su vida a través del deporte.
+Sentirse mejor con más movilidad y energía en el día a día.
+Mitigación de cuadros de estrés producto de la vida laboral que lleva.
+Dormir mejor y descansar de manera profunda con paz mental.
   
 **¿Como surge el proyecto?**
 El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y el conocimiento en la creación de hábitos deportivos diarios y continuos. 
