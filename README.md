@@ -35,7 +35,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 202X
+**Fecha** : 14/05/2026
 
 **Medios** (donde se tiene presencia): 
 
