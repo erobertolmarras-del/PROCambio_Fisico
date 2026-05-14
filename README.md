@@ -71,11 +71,6 @@ Acompañar a personas sedentarias en su transformación hacia una vida activa y 
 #### Vision
 Ser la comunidad digital de referencia en habitos deportivos para personas que están comenzando su camino activo, donde cada usuario encuentre su mejor versión respaldado por el apoyo genuino de su grupo, celebrando cada pequeño progreso como un gran logro colectivo.
 
-
-
-
-
-
 ## Metodología
 
 **Metodología de desarrollo** :
