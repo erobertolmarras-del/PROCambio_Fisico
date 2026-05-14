@@ -203,7 +203,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Ejercicio, hábitos saludables, salud mental
 - Organización y productividad
   
-**Needs:**
+**Necesidad:**
 - Rutinas adaptables a su estilo de vida
 - Motivación diaria y sensación de progreso
 - Espacio donde se sienta comprendida
