@@ -18,17 +18,20 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 
 
-**Titulo** : _______
+**Titulo** : PRO Cambio Físico
 
-**Autor(es)** ______________
+**Autor(es)** : Larissa Dantas, Yurismara León, Roberto López
 
-**Resumen** : _________
+**Resumen** : PRO Cambio Físico ayuda a personas con rutinas laborales exigentes o que no tengan una vida cotidiana sana a construir hábitos saludables mediante rutinas adaptadas a su estilo de vida. La marca busca reducir el estrés diario y mejorar el bienestar físico y emocional con pequeños cambios progresivos, motivación positiva y una experiencia flexible y accesible. Este cambio será acompañado por una comunidad que posea el mismo objetivo y con ello, los usuarios podrán encontrar un apoyo para la realización de ejercicios específicos y para la superación personal continua.
 
-**logotipo** :  ________
+**logotipo** :  
+<p align="center"
+<img src "" width="200">
+</p>
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): "Encuentra tu mejor versión"
 
-**Hashtag**  ___
+**Hashtag**  #PROCambioFisico #EncuentraTuMejorVersion
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
