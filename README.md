@@ -170,7 +170,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 **Público Objetivo** :
 
-👤 **Perfil Demográfico:**
+**Perfil Demográfico:**
 - Nombre: Yulia
 - Sexo: Mujer 
 - Edad: 30 años 
@@ -178,7 +178,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Nivel socioeconómico: Medio y medio-alto
 - Ciudad de Residencia: Granada, España.
 
-🧠 **Perfil psicológico:**
+**Perfil psicológico:**
 - Alto nivel de estrés laboral
 - Sin hábitos deportivos establecidos
 - Con conciencia de que necesitan cambiar, pero sin motivación 
@@ -187,7 +187,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
   sedentario (bares, restaurantes, salidas nocturnas)
 - Estilo de Vida: Es una persona que posee una vida laboral con horario establecido de 08:00 AM a 18:00 PM de Lunes a Viernes. Vida social robusta, muchas amistades y vida familiar activa.
  
-😓 **Dolor principal:**
+**Dolor principal:**
 - Posee una vida social activa donde sus amistades no comparten el estilo de vida deportivo por lo que no tiene influencia desde su circulo cercano. Sus espectativas de la vida laboral han sido cumplidas ya que le provee una estabilidad en todo ámbito pero su desgaste físico es evidente y ella lo nota. Atraviesa por un periodo de ansiedad y frustracion al no poder tener una vida deportiva constante o no poder desarrollar motivación por una actividad que no sea el trabajo lo que le genera estres.
 - Fricción con la vida social.
 - Incapacidad de autogestión.
@@ -195,7 +195,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 - Inseguridad por falta de ténicas.
 - Sobrecarga de información contradictoria
 
-🎯 **Lo que buscan (sin saberlo):**
+**Lo que buscan (sin saberlo):**
 
 **Objetivos:**
 - Mejorar su salud física y emocional
@@ -216,23 +216,21 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estrat%C3%A9gicamente?p=f&t=K9l4CQORm6TvIsAK-0
 
 
-## Etapa 3: Producción y evaluación
-
-## Estrategia para diseñar comunidad
+### Etapa 3: Producción y evaluación
 
 ## Estrategia de Evaluación
 
 Para medir el éxito de PRO Cambio Físico utilizaremos una estrategia 
 basada en tres etapas: lanzamiento, crecimiento y consolidación.
 
-### Etapa 1 — Lanzamiento (primeros 3 meses)
+## Etapa 1 — Lanzamiento (primeros 3 meses)
 Validar que la propuesta conecta con el público objetivo y que la 
 app funciona correctamente.
 
-### Etapa 2 — Crecimiento (3 a 6 meses)
+## Etapa 2 — Crecimiento (3 a 6 meses)
 Medir la retención de usuarios y el crecimiento de la comunidad.
 
-### Etapa 3 — Consolidación (6 a 12 meses)
+## Etapa 3 — Consolidación (6 a 12 meses)
 Evaluar el impacto real en los hábitos deportivos de los usuarios.
 
 ---
