@@ -125,6 +125,9 @@ Ordenar su vida a través del deporte.
 Sentirse mejor con más movilidad y energía en el día a día.
 Mitigación de cuadros de estrés producto de la vida laboral que lleva.
 Dormir mejor y descansar de manera profunda con paz mental.
+
+- Identificación de los 6 "Thinking Hats"
+
   
 **¿Como surge el proyecto?**
 El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y el conocimiento en la creación de hábitos deportivos diarios y continuos. 
