@@ -215,22 +215,7 @@ por dónde empezar o sienten que no tienen tiempo ni motivación.
 
 ## Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
-* Imagen visual **moodboard**
-
-     (Portada / Diseño de Interfaz) y herramienta usada
-     ``moodboard``
-
-* redes sociales (...) 
-
-* publicidad/promoción:
-    ``landing page``
-
-
-* proyecto: grado de conclusión
-
-    ``comunidad elgg``
+https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estrat%C3%A9gicamente?p=f&t=K9l4CQORm6TvIsAK-0
 
 
 ## Etapa 3: Producción y evaluación
