@@ -88,7 +88,8 @@ El diseño UX prioriza la simplicidad, la accesibilidad y la motivación positiv
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **¿Como surge el proyecto?**
-El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y sus respectivas 
+El proyecto surge debido a la experiencia de los integrantes del grupo con las actividades deportivas y el conocimiento en la creación de hábitos deportivos diarios y continuos. 
+De acuerdo con esto, se propone compartir estos conocimientos de manera que personas las cuales no posean estos hábitos puedan adquirirlos de manera estructurada y organizada comenzando por pequeños cambios que en un principio no generen un impacto muy grande dentro de la cotidianidad.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
