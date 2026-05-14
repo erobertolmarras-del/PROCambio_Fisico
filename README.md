@@ -291,7 +291,7 @@ No pasa nada, la app no penaliza las ausencias. Tu comunidad está ahí para mot
 ## Conclusiones y trabajo futuro
 
 
-PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenciadora en el mercado de apps de bienestar deportivo. Durante esta etapa inicial se han definido con éxito los pilares fundamentales del proyecto: identidad de marca, público objetivo, metodología de desarrollo basada en UX, modelo de comunidad activa y estrategia de evaluación. La propuesta responde a una necesidad real e identificada — el sedentarismo en profesionales con altos niveles de estrés — y plantea una solución innovadora basada en la validación comunitaria del progreso, lo que la diferencia claramente de otras apps de fitness existentes en el mercado.
+PRO Cambio Físico ha logrado consolidar una propuesta de valor clara y diferenciadora en el mercado de apps de bienestar deportivo. Durante esta etapa inicial se han definido con éxito los pilares fundamentales del proyecto: identidad de marca, público objetivo, metodología de desarrollo basada en UX, modelo de comunidad activa y estrategia de evaluación. La propuesta responde a una necesidad real e identificada — el sedentarismo en profesionales con altos niveles de estrés y rutinas de vida muy estructuradas con poco tiempo para relajo — y plantea una solución innovadora basada en la validación comunitaria del progreso, lo que la diferencia claramente de otras apps de fitness existentes en el mercado.
 
 
 ### Problemas identificados
