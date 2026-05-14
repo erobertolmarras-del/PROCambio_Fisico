@@ -343,11 +343,11 @@ Sí. PRO Cambio Físico es un proyecto viable porque combina una necesidad real,
 ## Referencias y recursos
 
 * [Proceso UX](https://uxmastery.com/resources/process/)
-* [Entendimiento experiencias de usuario UX]: https://blog.hubspot.es/website/experiencia-de-usuario-ux
-* [Fases del proceso UX]:https://moainstitute.com/fases-del-proceso-ux-y-metodos/
-* [Metodologías UX]: https://uixdesign.com/blog/metodologias-de-ux-como-transformar-la-experiencia-de-usuario
+* [Entendimiento experiencias de usuario UX]https://blog.hubspot.es/website/experiencia-de-usuario-ux
+* [Fases del proceso UX]https://moainstitute.com/fases-del-proceso-ux-y-metodos/
+* [Metodologías UX]https://uixdesign.com/blog/metodologias-de-ux-como-transformar-la-experiencia-de-usuario
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* [Creación de Logotipos]:https://myfreelogomaker.com/
+* [Creación de Logotipos]https://myfreelogomaker.com/
 
 
 
