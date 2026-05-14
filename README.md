@@ -135,12 +135,17 @@ De acuerdo con esto, se propone compartir estos conocimientos de manera que pers
 * (...)
 * identificar comunidades similares en otras rrss..
 
+* **@Strava** ([strava.com/clubs](https://www.strava.com/clubs)): es una referencia clave por su sistema de validación social mediante "Kudos" y la creación de clubes que fomentan la competitividad sana.
+* **@RedditFitness** ([reddit.com/r/Fitness](https://www.reddit.com/r/Fitness/)): es un modelo a seguir por su organización técnica de información sobre nutrición y rutinas de hipertrofia validadas por la comunidad.
+* **@DiscordFitness** ([discord.com/servers?query=fitness](https://discord.com/servers?query=fitness)): permite identificar cómo las comunidades similares usan canales en tiempo real para el seguimiento de metas y motivación grupal.
 
 
 ### Necesidad/oportunidad
 
-
-> dafo
+| **ANÁLISIS DAFO** | **Fortalezas (Internas)** | **Debilidades (Internas)** |
+| :--- | :--- | :--- |
+| **Factores Positivos** | **Propuesta de valor clara:** Enfoque en reducir el estrés diario y mejorar el bienestar físico/emocional mediante rutinas accesibles y flexibles. <br><br> **Identidad Visual definida:** Uso de tipografías legibles (Montserrat/Open Sans) y una paleta de colores que transmite calma y equilibrio. | **Dependencia de la comunidad:** El éxito del modelo depende de una participación activa de los usuarios para generar el soporte entre pares que propone la marca. |
+| **Factores Negativos** | **Oportunidades (Externas):** <br> Creciente demanda de soluciones de fitness que prioricen la salud mental y la desconexión del estrés laboral frente a la estética extrema. | **Amenazas (Externas):** <br> Competencia elevada de aplicaciones de entrenamiento genéricas que no ofrecen el factor de acompañamiento humano y grupal. |
 
 
 ### Motivación de la propuesta
