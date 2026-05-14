@@ -221,11 +221,52 @@ https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estr
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
 
+### Estrategia para diseñar comunidad
 
+## Estrategia de Evaluación
 
-### Estrategia para diseñar comunidada
+Para medir el éxito de PRO Cambio Físico utilizaremos una estrategia 
+basada en tres etapas: lanzamiento, crecimiento y consolidación.
 
+### Etapa 1 — Lanzamiento (primeros 3 meses)
+Validar que la propuesta conecta con el público objetivo y que la 
+app funciona correctamente.
 
+### Etapa 2 — Crecimiento (3 a 6 meses)
+Medir la retención de usuarios y el crecimiento de la comunidad.
+
+### Etapa 3 — Consolidación (6 a 12 meses)
+Evaluar el impacto real en los hábitos deportivos de los usuarios.
+
+---
+
+### Indicadores de Éxito (KPIs)
+
+**Comunidad y crecimiento:**
+- Número de usuarios registrados
+- Descargas de la app (App Store / Google Play)
+- Grupos de entrenamiento creados
+- Crecimiento mensual en redes sociales
+
+**Engagement y retención:**
+- Porcentaje de usuarios activos semanalmente
+- Tasa de cumplimiento de desafíos
+- Tiempo promedio de uso de la app por sesión
+- Interacciones dentro de los grupos (mensajes, validaciones)
+
+**Impacto real:**
+- Semanas consecutivas de entrenamiento por usuario
+- Porcentaje de usuarios que completan un mes completo
+- Calificación promedio en tiendas de apps
+- Testimonios y casos de éxito documentados
+
+---
+
+### Meta a 12 meses
+- 1.000 usuarios activos mensuales
+- 70% de tasa de retención mensual
+- Promedio de 3 sesiones de entrenamiento semanales por usuario
+- Calificación mínima de 4.5 estrellas en tiendas de apps
 
 ### Preguntas frecuentes
 
@@ -238,11 +279,6 @@ https://www.figma.com/make/2dqlA68RlT0sdE6fbnuDCm/A%C3%B1adir-im%C3%A1genes-estr
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-
-
-
 
 
 ## Referencias y recursos
