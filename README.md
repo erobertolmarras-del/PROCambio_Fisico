@@ -68,7 +68,7 @@ Acompañar a personas sedentarias en su transformación hacia una vida activa y 
 - 🏆 Superamos los desafíos en comunidad.
 - ⭐ Tu mejor versión empieza hoy, no mañana.
 
-#### Vision
+### Visión
 Ser la comunidad digital de referencia en habitos deportivos para personas que están comenzando su camino activo, donde cada usuario encuentre su mejor versión respaldado por el apoyo genuino de su grupo, celebrando cada pequeño progreso como un gran logro colectivo.
 
 ## Metodología
@@ -78,13 +78,13 @@ Ser la comunidad digital de referencia en habitos deportivos para personas que e
 PRO Cambio Físico se desarrolla bajo una estrategia de Diseño de 
 Experiencia de Usuario (UX), centrada en cuatro pilares principales:
 
-1. **Comunidad activa**: Los usuarios pueden crear y unirse a grupos de entrenamiento, realizando sesiones compartidas con amigos o conocidos (ej: "Clarita y Andrea — Sesión 5 semanal"), fomentando la motivación colectiva y el compromiso grupal.
+- 1. **Comunidad activa**: Los usuarios pueden crear y unirse a grupos de entrenamiento, realizando sesiones compartidas con amigos o conocidos (ej: "Clarita y Andrea — Sesión 5 semanal"), fomentando la motivación colectiva y el compromiso grupal.
 
-2. **Hábitos progresivos** : La app guía a personas sedentarias hacia una vida más activa mediante rutinas adaptadas, recordatorios y seguimiento de progreso semanal.
+- 2. **Hábitos progresivos** : La app guía a personas sedentarias hacia una vida más activa mediante rutinas adaptadas, recordatorios y seguimiento de progreso semanal.
 
-3. **Contenido de valor** : Se entregan consejos prácticos de entrenamiento y vida deportiva, diseñados para integrarse fácilmente en la rutina diaria del usuario.
+- 3. **Contenido de valor** : Se entregan consejos prácticos de entrenamiento y vida deportiva, diseñados para integrarse fácilmente en la rutina diaria del usuario.
 
-4. **Seguimiento y validación comunitaria**: El progreso semanal no es autoreportado — la comunidad es testigo activo del cumplimiento de los desafíos. Cada sesión completada puede ser verificada por los compañeros de grupo, eliminando la simulación de logros y fomentando una cultura de compromiso real y honesto con los objetivos deportivos.
+- 4. **Seguimiento y validación comunitaria**: El progreso semanal no es autoreportado — la comunidad es testigo activo del cumplimiento de los desafíos. Cada sesión completada puede ser verificada por los compañeros de grupo, eliminando la simulación de logros y fomentando una cultura de compromiso real y honesto con los objetivos deportivos.
 
 El diseño UX prioriza la simplicidad, la accesibilidad y la motivación positiva, asegurando que cualquier persona, sin importar su nivel físico, pueda comenzar y mantener sus hábitos deportivos.
 
